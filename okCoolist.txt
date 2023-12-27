@@ -1,0 +1,6 @@
+surname: fvfvfvfvfv
+Medical card number: cdcdvdvdvdvd
+Diagnosis: vdvvvvv
+Treatment recommendations: dvdvddvdv
+Indicators of the left eye: 4
+Indicators of the right eye: 4
